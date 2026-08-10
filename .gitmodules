@@ -2214,6 +2214,10 @@
 	path = extensions/llvm-ir
 	url = https://github.com/kdkasad/zed-llvm-ir-extension
 
+[submodule "extensions/local-keep-ai"]
+	path = extensions/local-keep-ai
+	url = https://github.com/laynef/localkeep-zed.git
+
 [submodule "extensions/log"]
 	path = extensions/log
 	url = https://github.com/nervenes/zed-log.git
@@ -4833,6 +4837,3 @@
 [submodule "extensions/zwirn"]
 	path = extensions/zwirn
 	url = https://codeberg.org/polymorphicengine/zwirn-zed-extension.git
-[submodule "extensions/local-keep-ai"]
-	path = extensions/local-keep-ai
-	url = https://github.com/laynef/localkeep-zed.git
